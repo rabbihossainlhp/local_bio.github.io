@@ -102,3 +102,31 @@ footer i{
     padding-right: 10px;
     color: rgb(255, 31, 31);
 }
+
+@media only screen and (max-width:480px){
+    .Social{
+        width: 320px;
+        padding: 14.3px 7px;
+    }
+    .profile-p{
+        width: 250px;
+        height: 250px;
+        margin-top: 20px;
+    }
+    .profile-container{
+        font-size: 28px;
+        margin-top: 5%;
+    }
+    .title{
+        padding: 13px 0px 19px 0px;
+    }
+    .title p{
+        font-size: 23px;
+    }
+    .icon-social{
+        width: 230px;
+        height: 28px;
+        font-size: 32px;
+    }
+
+}
